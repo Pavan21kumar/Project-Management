@@ -1,5 +1,5 @@
 package com.git;
 
 public class Example {
-// updated
+// feature 1 added from master
 }
